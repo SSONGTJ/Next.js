@@ -1,0 +1,61 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ..."
+    },
+    {
+      "title": "gd",
+      "body": "gd",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "body": "Reat.,.ius",
+      "id": 4
+    },
+    {
+      "title": "javascript",
+      "body": "javascript",
+      "id": 5
+    },
+    {
+      "title": "next.js",
+      "body": "next.js",
+      "id": 6
+    },
+    {
+      "title": "ㅎㅇ",
+      "body": "ㅎㅇ",
+      "id": 7
+    },
+    {
+      "title": "testd",
+      "body": "testd",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
